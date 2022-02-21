@@ -1,0 +1,13 @@
+using system;
+class program
+{
+int a,b;
+static void main()
+{
+a=return1[A[B();
+}
+public int return1()
+{
+b=5
+}
+}
